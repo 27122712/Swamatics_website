@@ -1,0 +1,204 @@
+{
+  "introVideo": "/images/intro-video.mp4",
+  "manufacturingSteps": [
+    {
+      "id": 1,
+      "title": "Innovative Product Development",
+      "description": "Share your requirements with our technical team. We analyze your specific needs and provide detailed specifications and competitive pricing for your industrial blower solutions.",
+      "image": "/images/SuperHelicalHybridBlower.png",
+      "details": "Our expert engineers review your application requirements, operating conditions, and performance specifications to recommend the most suitable blower technology."
+    },
+    {
+      "id": 2,
+      "title": "Cutting-edge Testing Facilities",
+      "description": "Our engineering team develops comprehensive project plans, technical drawings, and manufacturing schedules tailored to your specific requirements and delivery timelines.",
+      "image": "/images/TurboBlowers-integrallyGearedType.png",
+      "details": "Detailed project planning ensures optimal resource allocation, quality control measures, and timely delivery of your customized industrial equipment."
+    },
+    {
+      "id": 3,
+      "title": "Energy-Efficient Solutions",
+      "description": "Advanced design and prototyping phase where we create and test your custom blower solution using cutting-edge CAD software and simulation tools.",
+      "image": "/images/VacuumPumpsWithSecondarySuction.png",
+      "details": "Our R&D team utilizes state-of-the-art technology to develop innovative solutions that meet industry standards and exceed performance expectations."
+    },
+    {
+      "id": 4,
+      "title": "Low Emission Technology",
+      "description": "Precision manufacturing in our state-of-the-art facilities with continuous quality monitoring and performance evaluation at every stage of production.",
+      "image": "/images/SuperHelicalHybridBlower.png",
+      "details": "Advanced manufacturing processes ensure consistent quality, reliability, and adherence to international standards throughout the production cycle."
+    },
+    {
+      "id": 5,
+      "title": "Sustainable Manufacturing",
+      "description": "Comprehensive quality inspection, testing, and certification before packaging and delivery to ensure your equipment meets all specifications and performance standards.",
+      "image": "/images/TurboBlowers-integrallyGearedType.png",
+      "details": "Final inspection includes performance testing, quality certification, and professional packaging for safe delivery to your facility with installation support."
+    }
+  ],
+  "AboutUs": [
+    {
+      "id": 1,
+      "image": "/images/our-vision.png",
+      "title": "About Us",
+      "description1": "Founded in 1978 by the visionary and innovation-driven Chairman and Managing Director, Mr. S.K. Gambhir, SWAM Group has established itself at the forefront in the engineering and manufacturing domain.",
+      "description2": "SWAM was built with Mr. Gambhir’s bold vision: to engineer solutions that power industries across the world. SWAM is a brand that is well rooted in its values and origin which breathes- passion, excellence, and customer-first ideology."
+    }
+  ],
+  "aboutSection": {
+    "title": "About Swamatics",
+    "description": "Pioneering the future of technology with innovative solutions and unwavering commitment to excellence",
+    "ourStory": {
+      "title": "Our Journey",
+      "description": "SWAM Group, established in 1978 by visionary technocrat Mr. S. K. Gambhir, combines technical prowess and business acumen under his six-decade leadership. A graduate of India’s premier engineering institute with a postgraduate degree in Business Administration, Mr. Gambhir honed his expertise at institutions like Engineers India Limited (EIL) before founding SWAM Group. His focus on innovation, integrity, and sustainable growth has positioned the company as a trusted leader in delivering excellence across oil & gas, petrochemical, and infrastructure sectors."
+    },
+    "ourMission": {
+      "title": "Our Mission",
+      "description": "Our mission is to excel globally by delivering the right product for every application, emphasizing environmental responsibility, workplace safety, and cutting-edge manufacturing. We prioritize customer feedback, ensuring continuous development and superior engineering. We aim to be recognized worldwide for manufacturing robust, high-quality products that meet customer needs while maintaining competitiveness. Swam’s strength lies in customer collaboration, flexibility, innovation, and adherence to stringent international standards, with rigorous quality control and the use of approved components."
+    },
+    "ourCoreValues": {
+      "title": "Our Core Values",
+      "qualityTitle": "Excellence",
+      "qualityDescription": "Pursuing perfection in every project, ensuring unmatched performance and customer satisfaction.",
+      "innovationTitle": "Innovation",
+      "innovationDescription": "Transforming ideas into reality with creative thinking and advanced solutions.",
+      "collaborationTitle": "Sustainability",
+      "collaborationDescription": "Designing products and processes that protect resources for future generations.",
+      "reliabilityTitle": "Technology",
+      "reliabilityDescription": "Harnessing modern advancements to deliver smarter, faster, and more reliable solutions."
+    }
+  },
+  "productLaunchedSection": {
+    "title": "New Technology Product Launched",
+    "description": "Advanced & Next Generation Energy Efficient Helical Blower Package",
+    "products": [
+      {
+        "title": "Super Helical Hybrid Blower Package, 100% Energy Efficient",
+        "description": "Positive Displacement Super Helical lobe Rotary Blower is an integrated package that comprises of high efficiency Helical lobe blowers (which is direct coupled with motor), high efficiency Motors (IE3/IE4) of reputed supplier ABB /SIEMENS /CGL –origin India) & high efficiency VFD (ABB /SIEMENS /Schneider –origin India ) , HMI (Allen bredly –origin India), PLC controls (ABB/Siemens / Allen bredly –origin India), all safety instruments (transmitters & gauges & valves) for reliable and efficient operation (origin India), & fully fail proof design. This package gets accompanied in sound reduction cabinet that ensure low noise level & comply to industrial sound pollution norms for less than 85 Db(A) Noise level @ 1 meter distance.",
+        "description2": "It has cutting edge technology, next generation, innovative design, unmatched performance, cent percent make in India product with low operation Electricity cost & ownership cost over 15 years.",
+        "image": "/images/SuperHelicalHybridBlower.png"
+      },
+      {
+        "title": "Turbo Blowers - Integrally Geared Type",
+        "description": "High efficiency Swam Turbo Blowers are most advanced single stage centrifugal machine based on high speed focused specialized technology oil less operation.",
+        "image": "/images/TurboBlowers-integrallyGearedType.png"
+      },
+      {
+        "title": "Vacuum Pumps With Secondary Suction / Air Injection",
+        "description": "For negative suction, the pumps are ideally suited for processes requiring medium vacuums such as degassing, exhausting and pneumatic conveying.",
+        "image": "/images/VacuumPumpsWithSecondarySuction.png"
+      }
+    ]
+  },
+  "projectsAndCompanyGrowthSection": {
+    "title": "Projects & Company Growth",
+    "description": "Driving innovation and excellence across industries with our cutting-edge solutions and strategic partnerships",
+    "projectsCompleted": {
+      "totalNumbers": "500+",
+      "title": "Projects Completed",
+      "description": "Successfully delivered across 25+ countries"
+    },
+    "globalClients": {
+      "totalNumbers": "200+",
+      "title": "Global Clients",
+      "description": "Trusted by leading organizations worldwide"
+    },
+    "yearsOfExperience": {
+      "totalNumbers": "60+",
+      "title": "Years of Experience",
+      "description": "Pioneering industrial solutions since 2009"
+    },
+    "manufacturingFacilities": {
+      "totalNumbers": "45",
+      "title": "Manufacturing Facilities",
+      "description": "State-of-the-art facilities across India"
+    }
+  },
+  "performanceMetricsSection": {
+    "title": "Performance Metrics",
+    "description": "Measurable results that demonstrate our commitment to excellence and continuous improvement",
+    "clientSatisfaction": {
+      "percentage": "98%",
+      "title": "Client Satisfaction",
+      "description": "Customer Retention Rate"
+    },
+    "energyEfficiency": {
+      "percentage": "45%",
+      "title": "Energy Efficiency",
+      "description": "Average Energy Savings"
+    },
+    "projectSuccess": {
+      "percentage": "99%",
+      "title": "Project Success",
+      "description": "On-Time Delivery Rate"
+    },
+    "globalReach": {
+      "percentage": "85%",
+      "title": "Global Reach",
+      "description": "International Projects"
+    }
+  },
+  "ourClientsSection": {
+    "title": "Our Clients Reviews",
+    "description": " Don't just take our word for it - hear what our satisfied clients have to say about their experience working with us",
+    "clients": [
+      {
+        "id": 1,
+        "name": "David Johnson",
+        "designation": "Plant Manager",
+        "company": "Reliance Industries",
+        "reviewDate": "1 month ago",
+        "testimonial": "Great experience working with Swamatics on our petrochemical facility upgrade. The turbo blowers have improved our efficiency significantly. Professional team with excellent technical support.",
+        "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=150&h=150&fit=crop&crop=face"
+      },
+      {
+        "id": 2,
+        "name": "Sarah Williams",
+        "designation": "Environmental Engineer",
+        "company": "Veolia Water Technologies",
+        "reviewDate": "2 months ago",
+        "testimonial": "Swamatics provided the perfect solution for our wastewater treatment requirements. Their energy-efficient blowers have not only improved our process efficiency but also helped us meet our sustainability goals.",
+        "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=150&h=150&fit=crop&crop=face"
+      },
+      {
+        "id": 3,
+        "name": "Michael Brown",
+        "designation": "Operations Manager",
+        "company": "Petrochemical Company",
+        "reviewDate": "3 months ago",
+        "testimonial": "Swamatics delivered a high-performance blower package that exceeded our expectations. The energy efficiency and reliability of the system have made a significant impact on our operations.",
+        "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=150&h=150&fit=crop&crop=face"
+      }
+    ]
+  },
+  "contactUsSection": {
+    "title": "Let's Start Something Amazing Together",
+    "description": "Ready to transform your ideas into reality? We'd love to hear from you and discuss how we can help your business thrive.",
+    "getInTouch": {
+      "title": "Get in Touch",
+      "description": "We're here to help you succeed. Reach out to us through any of the channels below, and we'll get back to you within 24 hours.",
+      "emailUs": {
+        "title": "Email Us",
+        "email": "info@swamatics.com",
+        "message": "We'll respond within 24 hours"
+      },
+      "callUs": {
+        "title": "Call Us",
+        "phone": "+91 9876543210",
+        "message": "We're available from 9 AM to 6 PM, Monday to Friday"
+      },
+      "visitUs": {
+        "title": "Visit Us",
+        "address": "123 Main Street, Anytown, USA",
+        "message": "We're located in the heart of the city, easily accessible from major highways"
+      },
+      "socialMedia": {
+        "title": "Follow Us",
+        "facebook": "https://www.facebook.com/swamatics",
+        "twitter": "https://www.twitter.com/swamatics",
+        "linkedin": "https://www.linkedin.com/company/swamatics"
+      }
+    }
+  }
+}

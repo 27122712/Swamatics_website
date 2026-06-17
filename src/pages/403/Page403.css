@@ -1,0 +1,32 @@
+.parent-container {
+    display: flex;
+}
+
+.patient-create{
+    flex: 4;
+    margin-top: 0px;
+    width: 100%;
+
+}
+
+.error-403{
+    display: flex;
+    /* flex-wrap: wrap; */
+    flex-direction: column;
+    padding: 30px;
+    height: 80vh;
+    /* border-radius: 20px;
+    -webkit-box-shadow: 0px 0px 35px -6px rgba(0,0,0,0.09);
+    -moz-box-shadow: 0px 0px 35px -6px rgba(0,0,0,0.09);
+    box-shadow: 0px 0px 35px -6px rgba(0,0,0,0.09); */
+    margin: 20px;
+}
+
+/* Below is 403 code  */
+
+.page-content403{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    flex-direction: column;
+}

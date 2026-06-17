@@ -1,0 +1,59 @@
+/* Custom Cursor Styles */
+.custom-cursor-enabled * {
+  cursor: none !important;
+}
+
+/* Ensure cursor is visible on interactive elements */
+.custom-cursor-enabled a, 
+.custom-cursor-enabled button, 
+.custom-cursor-enabled input, 
+.custom-cursor-enabled textarea, 
+.custom-cursor-enabled select, 
+.custom-cursor-enabled [role="button"], 
+.custom-cursor-enabled [tabindex] {
+  cursor: none !important;
+}
+
+/* Custom cursor container */
+.custom-cursor {
+  position: fixed;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  z-index: 9999;
+  /* Remove mix-blend-mode to ensure visibility */
+  box-shadow: 0 0 10px rgba(59, 130, 246, 0.5);
+}
+
+.custom-cursor-dot {
+  position: fixed;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  z-index: 9999;
+  box-shadow: 0 0 5px rgba(255, 255, 255, 0.8);
+}
+
+/* Smooth transitions for cursor */
+.cursor-smooth {
+  transition: transform 0.1s ease-out;
+}
+
+/* Hide cursor on mobile devices */
+@media (max-width: 768px) {
+  * {
+    cursor: auto !important;
+  }
+  
+  .custom-cursor,
+  .custom-cursor-dot {
+    display: none !important;
+  }
+}
+
+/* Performance optimizations */
+.cursor-optimized {
+  will-change: transform;
+  transform: translateZ(0);
+  backface-visibility: hidden;
+}

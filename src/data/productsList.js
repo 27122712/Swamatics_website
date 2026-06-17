@@ -1,0 +1,25 @@
+const products = [
+  { name: "Rotary Twin Lobe Blowers", link: "/rotary-piston-blowers" },
+  { name: "Rotary Tri Lobe Blowers", link: "/rotarytrilobeblowers" },
+  { name: "Process Gas Blowers", link: "/process-gas-blowers" },
+  { name: "Turbo Blowers", link: "/turbo-blowers" },
+  { name: "Super Helical Hybrid Blower", link: "/super-helical-hybrid-blower" },
+  { name: "Truck Blowers", link: "/truck-blowers" },
+      { name: "Bio Gas Compressors", link: "/bio-gas-blowers-compressors" },
+  { name: "Dry Vacuum Pumps", link: "/air-injection" },
+  { name: "Rotary Sliding Vane Compressors", link: "/rotary-sliding-vane-compressors" },
+  { name: "Centrifugal Fans & Blowers", link: "/centrifugal-fans-blowers" },
+  { name: "SR Series Blowers", link: "/sr-series-blowers" },
+  { name: "Dry Screw Vacuum Pump", link: "/dry-screw-vacuum-pump" },
+  { name: "Liquid Ring Vacuum Pumps", link: "/liquid-ring-vacuum-pumps" },
+  { name: "Oil Vane Vacuum Pump", link: "/oil-vane-vacuum-pump-2" },
+  { name: "Mechanical Vacuum Boosters", link: "/mechanical-vacuum-boosters" },
+  { name: "MVR Blowers", link: "/mvr-blowers" },
+  { name: "Vacuum Systems and Packages", link: "/vacuum-systems-and-packages" },
+  { name: "Condenser Exhausters", link: "/condenser-exhausters" },
+    { name: "Claw Vacuum", link: "/clawvacuum" },
+    { name: "Liquid ring compressors", link: "/liquidringcompressors" },
+    { name: "Screw blower", link: "/screwblower" },
+
+];
+export default products;
