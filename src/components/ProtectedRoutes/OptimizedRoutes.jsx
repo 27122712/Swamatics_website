@@ -37,6 +37,7 @@ import ScrewBlower from "../../pages/Products/ScrewBlower/ScrewBlower";
 import LiquidRingCompressors from "../../pages/Products/LiquidRingCompressors/LiquidRingCompressors";
 import withPageSeo from "../../seo/withPageSeo";
 import { PAGE_SEO_CONFIG } from "../../seo/pageSeoConfig";
+import '../../styles/responsive.css';
 
 const ROUTE_DEFINITIONS = [
   { path: "/", component: Pages.HomePage },
@@ -132,6 +133,7 @@ const ROUTE_DEFINITIONS = [
   { path: "/gallery", component: Pages.Gallery },
   { path: "/product-knowledge-base", component: Pages.ProductKnowledgeBase },
   { path: "/contact-us", component: Pages.Contact },
+  { path: "/responsive", component: Pages.Responsive },
 ];
 
 const ROUTES_WITH_SEO = ROUTE_DEFINITIONS.map(({ path, component, seo }) => {

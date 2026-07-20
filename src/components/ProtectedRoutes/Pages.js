@@ -37,7 +37,7 @@ import Leadership from "../../pages/Introduction/Leadership/Leadership";
 import ProductKnowledgeBase from "../../pages/Blog/ProductKnowledgeBase/ProductKnowledgeBase";
 import Career from "../../pages/Activities/Career/Career";
 import Gallery from "../../pages/Activities/Gallery/Gallery";
-
+import Responsive from "../../styles/responsive.css";
 
 export {
   HomePage,
@@ -59,7 +59,6 @@ export {
   TruckBlowers,
   BioGasBlowersCompressors,
   AirInjection,
-
   RotarySlidingVaneCompressors,
   CentrifugalFansAndBlowers,
   SRSeriesBlowers,
@@ -80,5 +79,5 @@ export {
   ProductKnowledgeBase,
   Career,
   Gallery,
-  
+  Responsive,
 };
