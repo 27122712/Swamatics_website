@@ -467,7 +467,7 @@ const SeriesSlider = ({ title, data }) => (
     ],
   };
 
-  const productImageUrl = "/images/liquid-Ring-Vacuum-Pump.jpg";
+  const productImageUrl = "/images/liquid-Ring-Vacuum-Pump1.png";
   const systemComponentsImageUrl = "/images/liquid-Ring-Vacuum-Pump.png";
 
   const openModal = (imageUrl) => {
@@ -560,11 +560,11 @@ const SeriesSlider = ({ title, data }) => (
 
           <div className="relative">
             <div className="relative">
-              <div className="absolute inset-0 bg-gradient-to-br from-blue-500/20 to-purple-500/20 rounded-3xl"></div>
+              <div className="absolute inset-0 rounded-3xl"></div>
               <img
                 src={productImageUrl}
                 alt="Liquid Ring Vacuum Pump - Water Ring Technology"
-                className="relative z-10 w-full h-auto rounded-2xl shadow-2xl cursor-pointer transition-transform duration-300 hover:scale-[1.02]"
+                className="relative z-10 w-full h-auto rounded-2xl cursor-pointer transition-transform duration-300 hover:scale-[1.02]"
                 onClick={() => openModal(productImageUrl)}
               />
               <div className="absolute top-4 left-4 z-20 space-y-4 hidden lg:block">

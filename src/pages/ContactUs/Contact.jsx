@@ -182,7 +182,7 @@ const Contact = () => {
     },
     {
       icon: <MdLocationOn className="text-2xl" />,
-      title: "Office Address",
+      title: "Head Office",
       content: "C-2, SECTOR-3, NOIDA-201301, (U.P.) INDIA",
       href: "https://maps.google.com/maps?q=C-2,+SECTOR-3,+NOIDA-201301,+UP,+INDIA",
       color: "from-orange-500 to-orange-600",

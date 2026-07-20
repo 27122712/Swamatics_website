@@ -540,7 +540,7 @@ const MechanicalVaccumBoosters = () => {
     },
   ];
 
-  const productImageUrl = "/images/Mechanical-Vacuum.jpg";
+  const productImageUrl = "/images/Mechanical-Vacuum.png";
 
   const openModal = (imageUrl) => {
     setModalImage(imageUrl);
@@ -590,7 +590,7 @@ Up To 80,000                </div>
               </div>
               <div className="text-center">
                 <div className="text-2xl font-bold text-blue-400 leading-none">
-Max 10⁻³                </div>
+Max 10⁻⁴                </div>
                 <div className="text-sm text-slate-400 mt-1">
                   {t("mechanicalVacuumBoosters.hero.vacuum")}
                 </div>

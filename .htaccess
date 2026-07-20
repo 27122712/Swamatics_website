@@ -1,0 +1,17 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # 1. Your Custom Redirects
+  Redirect 301 /rotary-piston-blowers/ https://swamatics.com/rotary-twin-lobe-blowers
+  Redirect 301 /about-us/ https://swamatics.com/about
+  Redirect 301 /shell-and-tube-type-heat-exchangers/ https://swamatics.com/
+  Redirect 301 /acoustic-enclosures-and-silencers/ https://swamatics.com/
+  Redirect 301 /process-gas-blower-manufacturer/ https://swamatics.com/process-gas-blowers/
+
+  # 2. SPA Fallback (Fixes the 404 on refresh)
+  RewriteRule ^index\.html$ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . /index.html [L]
+</IfModule>

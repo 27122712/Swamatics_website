@@ -250,7 +250,7 @@ const MVRBlowers = () => {
   const specifications = [
     {
       parameter: "Flow Capacity",
-      value: "Up to 65,000 M³/hr",
+      value: "Up To 1,00,000 M³/hr",
       icon: <FaWind />,
       color: "#3b82f6",
     },
@@ -262,7 +262,7 @@ const MVRBlowers = () => {
     },
     {
       parameter: "Vacuum Capability",
-      value: "Up to 50%",
+      value: "<50%",
       icon: <FaCompress />,
       color: "#f59e0b",
     },
@@ -278,7 +278,7 @@ const MVRBlowers = () => {
     {
       title: "High Flow Capacity",
       description:
-        "Readily available for flows up to 65,000 M³/hr with consistent performance across the entire operating range",
+        "Readily available for flows Up To 1,00,000 M³/hr with consistent performance across the entire operating range",
       icon: <FaWind />,
       stat: "65,000",
       unit: "M³/hr Flow",
@@ -331,7 +331,7 @@ const MVRBlowers = () => {
     ],
   };
 
-  const productImageUrl = "/images/MVR-Blowers.jpg";
+  const productImageUrl = "/images/MVR-Blowers.png";
 
   const openModal = (imageUrl) => {
     setModalImage(imageUrl);
@@ -377,7 +377,7 @@ const MVRBlowers = () => {
             <div className="flex flex-wrap gap-4 sm:gap-6 md:gap-8 mb-6 md:mb-8">
               <div className="text-center">
                 <div className="text-2xl font-bold text-blue-400 leading-none">
-Up To 65,000                </div>
+Up To 1,00,000                </div>
                 <div className="text-sm text-slate-400 mt-1">
                   {t("mvrBlowers.hero.capacity")}
                 </div>

@@ -339,7 +339,7 @@ const DryScrewVaccumPump = () => {
     ],
   };
 
-  const productImageUrl = "/images/dry-Screw-Vacuum-Pump.jpg";
+  const productImageUrl = "/images/dry-Screw-Vacuum-Pump.png";
   const systemComponentsImageUrl = "/images/dry-Screw-Vacuum-Pump-below.png";
 
   const openModal = (imageUrl) => {
