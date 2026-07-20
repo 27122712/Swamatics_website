@@ -444,7 +444,7 @@ const OilVaneVacuumPump = () => {
     ],
   };
 
-  const productImageUrl = "/images/oil-Vane-Vacuum-Pump.jpg";
+  const productImageUrl = "/images/oil-Vane-Vacuum-Pump.png";
 
   const openModal = (imageUrl) => {
     setModalImage(imageUrl);
@@ -544,11 +544,11 @@ Max 0.01                </div>
 
           <div className="relative">
             <div className="relative">
-              <div className="absolute inset-0 bg-gradient-to-r from-blue-600/20 to-purple-600/20 rounded-3xl blur-3xl"></div>
+              <div className="absolute inset-0 rounded-3xl blur-3xl"></div>
               <img
                 src={productImageUrl}
                 alt="Oil Vane Vacuum Pump - Rotary Vane Technology"
-                className="relative w-full h-auto rounded-2xl shadow-2xl cursor-pointer transition-all duration-300 hover:scale-105"
+                className="relative w-full h-auto rounded-2xl cursor-pointer transition-all duration-300 hover:scale-105"
                 onClick={() => openModal(productImageUrl)}
               />
               <div className="absolute inset-0 pointer-events-none">

@@ -359,7 +359,7 @@ const CondenserExhausters = () => {
     [t]
   );
 
-  const productImageUrl = "/images/Condenser-Exhausters.jpg";
+  const productImageUrl = "/images/Condenser-Exhausters.png";
 
   const openModal = (imageUrl) => {
     setModalImage(imageUrl);

@@ -273,7 +273,7 @@ const VaccumSystemsPackages = () => {
     {
       title: "High Displacement",
       description:
-        "Exceptional pumping capacity up to 52,000 M³/Hr for large-scale vacuum operations",
+        "Exceptional pumping capacity Up To 65,000 M³/Hr for large-scale vacuum operations",
       icon: <FaChartLine />,
       stat: "52,000",
       unit: "M³/Hr",
@@ -424,7 +424,7 @@ const VaccumSystemsPackages = () => {
             <div className="flex flex-wrap gap-4 sm:gap-6 md:gap-8 mb-6 md:mb-8 animate-[fadeInUp_0.8s_ease-out_0.6s_both]">
               <div className="text-center">
                 <div className="text-2xl font-bold text-blue-400 leading-none">
-Up To 52,000                </div>
+Up To 65,000                </div>
                 <div className="text-sm text-slate-400 mt-1">
                   {t("vacuumSystemsPackages.hero.capacity")}
                 </div>
